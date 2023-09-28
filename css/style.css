@@ -1,6 +1,9 @@
 * {
     margin: 0;
-    background-image: url (../img/wbcg.png);
+}
+
+html{
+    background-image: url(../img/wbcg.png);
 }
 
 body {
