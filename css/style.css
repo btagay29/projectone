@@ -1,12 +1,12 @@
 * {
     margin: 0;
-    background-image: url (../img/wbcg.png), url(../img/Daisukebck1.png);
+    background-image: url (../img/wbcg.png);
 }
 
 body {
-    /*margin-top: 0px;
+    margin-top: 0px;
     background-image: url(../img/Daisukebck1.png);
-    background-position: center 100%;*/
+    background-position: center 100%;
 }
 
 .home {
