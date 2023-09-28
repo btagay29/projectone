@@ -1,0 +1,112 @@
+html {
+    margin: 0;
+    background-image: url('/img/wbcg.png');
+}
+
+body {
+    margin-top: 0px;
+    background-image: url('/img/Daisukebck1.png');
+    background-position: center 100%;
+}
+
+.home {
+    display: inline;
+    align-items: center;
+}
+
+li {
+    display: inline;
+    margin-inline: 60px;
+}
+
+nav {
+    margin-top: 15px;
+    position: relative;
+    text-align: center;
+
+}
+
+footer {
+    display: block;
+    margin-top: 90px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.life {
+    text-align: justify;
+
+}
+
+.bio {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 90px 200px 30px;
+}
+
+.parttime {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 0 200px 30px;
+    text-align: justify;
+}
+
+.paris {
+    align-items: center;
+    margin: 20px 200px 0;
+    text-align: justify;
+}
+
+video {
+    opacity: 0.8;
+}
+
+.tibimg1 {
+    margin-top: 90px;
+    display:inline-block;
+    justify-content: center;
+    align-items: center;
+    margin-left: 220px;
+}
+.tibimg {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.tibor {
+    align-items: center;
+    justify-content: center;
+    margin: 10px 200px;
+    text-align: justify;
+}
+
+
+a {
+    color: rgb(17, 91, 67);
+    text-decoration: none;
+}
+
+.spotify {
+    display: grid;
+    grid-auto-flow: column;
+    align-items: center;
+    justify-content: center;
+    margin: 90px 200px 30px;
+    margin-inline: 100px;
+}
+
+.spotify1 {
+    display: grid;
+    grid-auto-flow: column;
+    align-items: center;
+    justify-content: center;
+    margin: 10px 200px 30px;
+}
+
+.muscap {
+    margin: 0 200px;
+    text-align: justify;
+}
